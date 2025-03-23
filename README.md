@@ -59,12 +59,5 @@ To get started, you’ll need:
 
 ---
 
-## 🎓 Certification & Final Project
-- Complete a **simple project** to test your skills 🎯
-- Receive a **Certificate of Completion** 🎉
-- Showcase your achievement on resumes & social profiles 💼
-
----
-
 🚀 **Start your Python journey today! Happy Coding!** 🎉
 
