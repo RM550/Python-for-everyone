@@ -1,4 +1,4 @@
-# 🚀 Running a "Hello, World!" Program in Python using VSCode 🎉
+# 🚀 Running a "Hello, World!" Program in Python using VSCode
 
 ## 📌 Prerequisites
 Before running a Python program in **Visual Studio Code (VSCode)**, ensure you have the following installed:
